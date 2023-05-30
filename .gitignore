@@ -9,7 +9,13 @@ lerna-debug.log*
 
 node_modules
 .DS_Store
-dist
+.vscode
+src
+package-lock.json
+package.json
+postcss.config.json
+tailwind.config.json
+vite.config.js
 dist-ssr
 coverage
 *.local
